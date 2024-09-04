@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Maria M., and I am a computer engineering student at the Federal University of Paraíba.</p>
+<h5 align="left">I am Maria M., and I am a computer engineering student at the Federal University of Paraíba.</h5>
 
 ###
 
